@@ -4,7 +4,7 @@
 
 ### Civil Engineer transitioning into Data Analytics and Automation · Based in Luxembourg
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-1F4E79?style=for-the-badge&logo=githubpages&logoColor=white)](https://kevinespinozatech.github.io/data-analytics-portfolio-website/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1F4E79?style=for-the-badge&logo=githubpages&logoColor=white)](https://kevinespinozatech.github.io/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:k.espinozano@gmail.com)
 
 </div>
@@ -40,25 +40,24 @@ What I care about:
 
 **Status labels:** ✅ Completed · 🚧 Work in progress · 🎓 Guided learning project (built while following a course, credited in each README)
 
-### Current work: automation and AI-assisted workflows
+### Current work: analytics and automation
 
 | Project | Status | Description |
 |---|---|---|
-| [clipping-portfolio-automation](https://github.com/kevinEspinozaTech/clipping-portfolio-automation) | 🚧 | Rights-aware Python pipeline for planning authorized short-form video clips with FFmpeg, mandatory human review and analytics-ready manifests. |
-| [faceless-automation-portfolio](https://github.com/kevinEspinozaTech/faceless-automation-portfolio) | 🚧 | Governed, source- and license-aware pipeline design for original faceless video content. |
-| [n8n-automation-portfolio](https://github.com/kevinEspinozaTech/n8n-automation-portfolio) | 🚧 | Workflow automation, APIs and AI agents with n8n. |
-| [python-data-analysis](https://github.com/kevinEspinozaTech/python-data-analysis) | 🚧 | Python data analysis exercises and notebooks. |
+| [rights-aware-video-clipping-pipeline](https://github.com/kevinEspinozaTech/rights-aware-video-clipping-pipeline) | 🚧 | Rights-aware Python pipeline for planning authorized short-form video clips with FFmpeg, mandatory human review and analytics-ready manifests. |
+| [faceless-video-content-pipeline](https://github.com/kevinEspinozaTech/faceless-video-content-pipeline) | 🚧 | Governed, source- and license-aware pipeline design for original faceless video content. |
+| [ecommerce-marketing-decision-analytics](https://github.com/kevinEspinozaTech/ecommerce-marketing-decision-analytics) | 🚧 | E-commerce marketing decision analytics: data-quality validation and financial and category analysis in SQL (BigQuery); Power BI and n8n stages planned. |
 
 ### Data analytics portfolio
 
 | Project | Status | Description |
 |---|---|---|
-| [data-analytics-portfolio-website](https://github.com/kevinEspinozaTech/data-analytics-portfolio-website) | ✅ | Portfolio site published with GitHub Pages ([live](https://kevinespinozatech.github.io/data-analytics-portfolio-website/)). |
-| [covid-data-exploration-sql](https://github.com/kevinEspinozaTech/covid-data-exploration-sql) | ✅ 🎓 | COVID-19 exploration in SQL Server: joins, CTEs, temp tables, window functions, views. |
-| [nashville-housing-data-cleaning-sql](https://github.com/kevinEspinozaTech/nashville-housing-data-cleaning-sql) | ✅ 🎓 | Data cleaning in SQL: self-joins, string parsing, `CASE`, `ROW_NUMBER()` deduplication. |
-| [covid-tableau-analysis-sql](https://github.com/kevinEspinozaTech/covid-tableau-analysis-sql) | ✅ 🎓 | SQL preparation for a [Tableau Public dashboard](https://public.tableau.com/app/profile/kevin.espinoza1014/viz/CovidDashboardP2/Dashboard1). |
-| [movie-correlation-analysis-python](https://github.com/kevinEspinozaTech/movie-correlation-analysis-python) | ✅ 🎓 | Cleaning and correlation analysis of ~7,700 films with pandas and seaborn. |
-| [data-professional-survey-power-bi](https://github.com/kevinEspinozaTech/data-professional-survey-power-bi) | ✅ 🎓 | Power BI dashboard of a survey of 630 data professionals. |
+| [kevinespinozatech.github.io](https://github.com/kevinEspinozaTech/kevinespinozatech.github.io) | ✅ | Portfolio site published with GitHub Pages ([live](https://kevinespinozatech.github.io/)). |
+| [covid19-global-exploratory-analysis-sql](https://github.com/kevinEspinozaTech/covid19-global-exploratory-analysis-sql) | ✅ 🎓 | COVID-19 exploration in SQL Server: joins, CTEs, temp tables, window functions, views. |
+| [real-estate-data-cleaning-sql-server](https://github.com/kevinEspinozaTech/real-estate-data-cleaning-sql-server) | ✅ 🎓 | Data cleaning in SQL: self-joins, string parsing, `CASE`, `ROW_NUMBER()` deduplication. |
+| [covid19-global-dashboard-tableau](https://github.com/kevinEspinozaTech/covid19-global-dashboard-tableau) | ✅ 🎓 | SQL preparation for a [Tableau Public dashboard](https://public.tableau.com/app/profile/kevin.espinoza1014/viz/CovidDashboardP2/Dashboard1). |
+| [movie-box-office-drivers-python](https://github.com/kevinEspinozaTech/movie-box-office-drivers-python) | ✅ 🎓 | Cleaning and correlation analysis of ~7,700 films with pandas and seaborn. |
+| [data-careers-survey-dashboard-power-bi](https://github.com/kevinEspinozaTech/data-careers-survey-dashboard-power-bi) | ✅ 🎓 | Power BI dashboard of a survey of 630 data professionals. |
 
 ---
 
@@ -76,4 +75,4 @@ What I care about:
 
 I am open to junior and entry-level **data analyst** and **automation** opportunities in Luxembourg.
 
-📧 [k.espinozano@gmail.com](mailto:k.espinozano@gmail.com) · 🌐 [Portfolio](https://kevinespinozatech.github.io/data-analytics-portfolio-website/)
+📧 [k.espinozano@gmail.com](mailto:k.espinozano@gmail.com) · 🌐 [Portfolio](https://kevinespinozatech.github.io/)
