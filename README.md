@@ -44,9 +44,9 @@ What I care about:
 
 | Project | Status | Description |
 |---|---|---|
+| [ecommerce-marketing-decision-analytics](https://github.com/kevinEspinozaTech/ecommerce-marketing-decision-analytics) | 🚧 | E-commerce marketing decision analytics on the public TheLook dataset (synthetic). **SQL stage completed** ([documentation](https://github.com/kevinEspinozaTech/ecommerce-marketing-decision-analytics/blob/main/docs/stage-02-data-preparation.md)): data-quality and financial validation, monthly performance and category scoring in BigQuery. Power BI dashboard in progress; n8n automation planned. |
 | [rights-aware-video-clipping-pipeline](https://github.com/kevinEspinozaTech/rights-aware-video-clipping-pipeline) | 🚧 | Rights-aware Python pipeline for planning authorized short-form video clips with FFmpeg, mandatory human review and analytics-ready manifests. |
 | [faceless-video-content-pipeline](https://github.com/kevinEspinozaTech/faceless-video-content-pipeline) | 🚧 | Governed, source- and license-aware pipeline design for original faceless video content. |
-| [ecommerce-marketing-decision-analytics](https://github.com/kevinEspinozaTech/ecommerce-marketing-decision-analytics) | 🚧 | E-commerce marketing decision analytics: data-quality validation and financial and category analysis in SQL (BigQuery); Power BI and n8n stages planned. |
 
 ### Data analytics portfolio
 
@@ -65,9 +65,10 @@ What I care about:
 
 | Certification | Issuer | Date |
 |---|---|---|
-| Power BI Data Analyst | Microsoft | March 2025 |
+| Microsoft Power BI Data Analyst Professional Certificate | Microsoft (Coursera) | March 2025 |
 | Data Analyst Professional Certificate | Meta | December 2024 |
 | Generative AI Fundamentals (Claude 101) | Anthropic | May 2026 |
+| Microsoft Certified: Power BI Data Analyst Associate (PL-300) | Microsoft | In preparation |
 
 ---
 
